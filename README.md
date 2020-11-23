@@ -7,7 +7,7 @@
 		<p><h1 align="center">Designed by Apple in California<br/><br/><br/>
 		<br/>iPhone 12 Pro Series</p><i><p><h3>The Most Powerful Devices Ever<br/>With 5nm Chip</h3></i></p>
 		<a><a href="http://www.apple.com.cn//">双十二钜惠，<br/>等于不要钱～</h1></a>
-		<img align="center" src="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1604021663000" width="600" height=680""/>
+		<img align="center" src="https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000" width="600" height=680""/>
 	</body>
 	<table>
 		<tr>
